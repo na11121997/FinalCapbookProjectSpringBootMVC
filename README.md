@@ -1,7 +1,6 @@
 # FinalCapbookProjectSpringBootMVC
 
-Facebook type Applcation
-except implemented using
+Facebook type Applcation implemented using
 
 Java Spring Boot MVC in the Backend
 
